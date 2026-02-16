@@ -23,7 +23,7 @@ Cria uma conta bancária e permite fazer saques e depósitos.
             self.saldo -= valor
             print(f"Saque de R${valor:,.2f} autorizado na conta {self.id}")
 
-
+# Teste usando terminal para o git
 
 c1 = ContaBancaria(112, "Gustavo", 3000)
 
